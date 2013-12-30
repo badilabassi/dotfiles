@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Backbone.js",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"jQuery",
+		"LESS",
+		"LiveReload",
+		"LiveStyle",
+		"Package Control",
+		"PHP Companion",
+		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Theme - Soda",
+		"Underscore.js Snippets",
+		"Wordpress"
+	]
+}
